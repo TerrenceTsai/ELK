@@ -1,0 +1,3 @@
+Name,Data Type,Logical Address,scale,mapping
+PIW0,Word,%QW500,,DIW0
+PIW2,Word,%QW502,,DIW2
